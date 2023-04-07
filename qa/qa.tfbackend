@@ -1,0 +1,2 @@
+bucket="terraform-qa-state-bucket-balajitechnologies"
+key="eks/terraform.tfstate"
